@@ -55,10 +55,10 @@
 - Скачиваем deb пакет с конфигурацией репозитория
 - Устанавливаем `sudo dpkg -i /home/gb/Загрузки/mysql-apt-config_0.8.29-1_all.deb`
 - Отвечаем на несколько вопросов установщика  
--`sudo apt update`  
--`sudo apt install mysql-server mysql-client`  
--`sudo systemctl start mysql`  
--`sudo systemctl status mysql`  
+- `sudo apt update`  
+- `sudo apt install mysql-server mysql-client`  
+- `sudo systemctl start mysql`  
+- `sudo systemctl status mysql`  
 
 ## 4. Управление deb-пакетами
 
