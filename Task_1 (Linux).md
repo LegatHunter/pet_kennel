@@ -27,12 +27,12 @@
     cat Animals.txt
 ```
 
-> Собаки
-> Кошки
-> Хомяки
-> Лошади
-> Верблюды
-> Ослы
+> Собаки  
+> Кошки  
+> Хомяки  
+> Лошади  
+> Верблюды  
+> Ослы  
 
 ### Переименовать получившийся файл в "Human Friends".
 
@@ -54,11 +54,11 @@
 ### Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
 - Скачиваем deb пакет с конфигурацией репозитория
 - Устанавливаем `sudo dpkg -i /home/gb/Загрузки/mysql-apt-config_0.8.29-1_all.deb`
-- Отвечаем на несколько вопросов установщика
--`sudo apt update`
--`sudo apt install mysql-server mysql-client`
--`sudo systemctl start mysql`
--`sudo systemctl status mysql`
+- Отвечаем на несколько вопросов установщика  
+-`sudo apt update`  
+-`sudo apt install mysql-server mysql-client`  
+-`sudo systemctl start mysql`  
+-`sudo systemctl status mysql`  
 
 ## 4. Управление deb-пакетами
 
